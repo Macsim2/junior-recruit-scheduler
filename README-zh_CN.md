@@ -1,6 +1,6 @@
 # 初级开发者招聘信息
 
-[Korean](./README.md) | [Chinese](./README-zh_CN.md)  
+[Korean](./README.md) | [English](./README-en_EN.md) | [Chinese](./README-zh_CN.md)  
 
 <div align=center>
 
@@ -45,7 +45,7 @@
 
 * [Telegram 机器人](http://bit.ly/2MfbltB)
 
-## 4. 招聘 (2019)
+## 4. 招聘 (2020)
 
 채용에 올라온 기업들은 모두 **개발자로서 커리어 쌓기가 좋은 회사**의 **신입/주니어** 채용을 기준으로 합니다.  
 
@@ -80,7 +80,6 @@
 * [招聘中] [Riiid 招聘所有开发人员](https://career.riiid.app)
   * [Riiid公司](https://riiid.co/ko/)
   * [前端技术栈](https://apply.riiid.app/)
-  * [(参考资料) Santa TOEIC简介](https://santatoeic.com/intro)
 
 * [招聘中] [Trevari初级开发人员](http://bit.ly/2ZSFUvi)
 
@@ -101,6 +100,12 @@
     * [在团队中和负责人工作](https://brunch.co.kr/@comento/120)
     * [위워크 입주기업 릴레이 인터뷰](http://bitly.kr/6flAH)
     * [한국일보 인터뷰 - 이달의 생산성 기업](http://bitly.kr/TgWDe)
+
+* [招聘中] [Skelter Labs 软件工程师招聘](https://www.notion.so/71edafe219b0432da0b1959f622c9f1a)
+  * 即使你不是AI专家，也可以来面试。
+  * [Skelter Labs CEO 采访](https://www.youtube.com/watch?v=uIhKDGz2ENo&t=349s)
+  * [Skelter Labs 团队文化介绍](https://blog.naver.com/skelterlabs/221860320455)
+  * [Skelter Labs 最新消息](https://www.skelterlabs.com/ko/news/)
 
 ### 招聘事件
 
@@ -130,7 +135,7 @@
 * [스타트업 주의 사항](https://www.facebook.com/dalinaum/posts/10157321350303468)
 
 * [MS Imagine Cup 국가대표의 스타트업 도전기 - 창업 실패부터 현재 커리어를 만들기까지 - 참석후기](https://jojoldu.tistory.com/423)
-  
+
 * [当你的面试通过了一个你不喜欢的小公司](https://jojoldu.tistory.com/398)
 
 * [Tech HR - 阅读初级开发人员和高级开发人员之间的差异](https://jojoldu.tistory.com/163)
@@ -226,8 +231,6 @@
 * [记这次技术绵中中遇到的问题和答案（前端）](https://medium.com/@jimkimau/이번-기술-면접-중-기억나는-질문과-답변들-712daa9a2dc)
 
 * [변성윤님의 Datascience-Interview-Questions](https://github.com/zzsza/Datascience-Interview-Questions)
-
-* [DaeHeeKim93(김대희)님의 기술면접 자료 Repository](https://github.com/DaeHeeKim93/DaeHeeKim-Review)
 
 * [我在年度访谈中遇到的问题清单 (技术)](https://github.com/KimHunJin/Study-Book/tree/master/interview)
 
